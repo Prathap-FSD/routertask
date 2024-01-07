@@ -1,0 +1,112 @@
+[
+  {
+  "id": 1,
+  "cd": "fsd",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/top-ways-to-assess-soft-skills-in-full-stack-developers.webp",
+  "tilte": "Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
+  "description": "When you’re hiring a full-stack developer, what are the most important things you look for?",
+  "date": "15 November 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 2,
+  "cd": "fsd",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Full-Stack-Developer-vs-Software-Engineer-.webp",
+  "tilte": "Top Differences: Full Stack Developer vs Software Engineer 2024",
+  "description": "A Full Stack Developer is a tech all-rounder. They work on both the front and",
+  "date": "15 November 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 3,
+  "cd": "fsd",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Horizontal-vs-Vertical-Scaling-for-Efficient-System-Design.webp",
+  "tilte": "Top Differences: Full Stack Developer vs Software Engineer 2024",
+  "description": "A Full Stack Developer is a tech all-rounder. They work on both the front and",
+  "date": "10 November 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 4,
+  "cd": "ds",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+  "tilte": "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+  "description": "Are you someone who’s not interested in coding, but wants to get placed in tech",
+  "date": "28 November 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 5,
+  "cd": "ds",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-1-2048x1024.webp",
+  "tilte": "Impact of Certification Programs on Hiring Data Scientists",
+  "description": "Data scientists are the creators behind transforming the raw data into edible data insights. These",
+  "date": "15 November 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 6,
+  "cd": "ds",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
+  "tilte": "Top Product-Based Companies for Data Science Freshers",
+  "description": "In today’s data-driven world, data science has emerged as a crucial field, with companies harnessing",
+  "date": "10 November 2023 ",
+  "comment": "No Comments"
+  },
+  {
+  "id": 7,
+  "cd": "cs",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+  "tilte": "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+  "description": "In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills",
+  "date": "4 December 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 8,
+  "cd": "cs",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+  "tilte": "What Is Hacking? Types of Hacking & More",
+  "description": "Have you ever wondered what hacking is all about? It’s a big deal in today’s",
+  "date": "25 September 2023",
+  "comment": "No Comments"
+  },
+  {
+  "id": 9,
+  "cd": "cs",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+  "tilte": "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+  "description": "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
+  "date": "27 December 2022",
+  "comment": "No Comments"
+  },
+  {
+  "id": 10,
+  "cd": "career",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
+  "tilte": "UI/UX Designer Job description and Roles & Responsibilities",
+  "description": "UI UX is the abbreviated word that’s been rocking the trend over the years, especially",
+  "date": "13 December 2023 ",
+  "comment": "No Comments"
+  },
+  
+  {
+  "id": 11,
+  "cd": "career",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp",
+  "tilte": "Top 5 IT Jobs for Economics Students",
+  "description": "In today’s digital age, the intersection of economics and technology offers exciting career opportunities for",
+  "date": "4 December 2023 ",
+  "comment": "No Comments"
+  },
+  
+  {
+  "id": 12,
+  "cd": "career",
+  "image":"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
+  "tilte": "Top IT Jobs for Commerce Students: A Lucrative Career Path",
+  "description": "With the rap id advancement of technology, the demand for IT professionals has soared in recent",
+  "date": "2 December 2023",
+  "comment": "No Comments"
+  }    
+]

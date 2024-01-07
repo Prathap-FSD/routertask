@@ -1,0 +1,20 @@
+.navBar{
+  display: flex;
+  justify-content: center;
+  background-color: lightcoral;
+}
+.nav-link {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.nav-link:hover {
+  color: rgb(10, 170, 1);
+  border-bottom: 4px solid rgb(10, 170, 1);
+}
+.active{
+  color: rgb(10, 170, 1) !important;
+  border-bottom: 4px solid rgb(10, 170, 1);
+}
+.navbar{
+  box-shadow: 0 0 5px lightgray;
+}

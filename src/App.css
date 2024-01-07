@@ -1,0 +1,26 @@
+.navBar{
+  display: flex;
+  justify-content: center;
+}
+.active1{
+  color:#0aaa01 ;
+}
+.card a{
+text-decoration: none;
+font-weight: 600;
+font-size: 14px;
+}
+.card {
+  min-height: 496px;
+}
+.paraHead{
+  font-size: 20px;
+  font-weight: 500;
+}
+.card-footer{
+  background-color: white;
+}
+.card-footer span{
+  font-size: 13px;
+  color: #afacac;
+}
